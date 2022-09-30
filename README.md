@@ -1,12 +1,12 @@
 # awesome-clean-code
 
-## Awesome Clean Code Awesome
+## Awesome Clean Code
 https://github.com/kkisiele/awesome-clean-code
 
 ## Clean Code Developer Checklist
 https://github.com/dev-aritra/clean-code-developer-checklist
 
-## Awesome Clean Code Resources Awesome
+## Awesome Clean Code Resources
 https://github.com/abiodunjames/Awesome-Clean-Code-Resources
 
 ## Clean Code For All Programming Langage
